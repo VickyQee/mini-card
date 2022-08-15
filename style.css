@@ -1,0 +1,47 @@
+* {
+  margin: 0px auto;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 471px;
+  margin: 10px auto;
+  padding-top: 10px;
+  background-color:#FCEBEB;
+  padding-bottom: 10px;
+  height: 200px;
+  justify-content: center;
+  /* display: flex; */
+}
+
+.bottom-container {
+  width: 471px;
+  height: 31px;
+  align-content: left;
+  
+}
+.deposit {
+  justify-content: space-between;
+  display: flex;
+  align-content: center;
+}
+.cashTitle{
+  font-size:0.8rem ;
+  color:#FF4848;
+  margin-top: 10px;
+}
+.cashAmount {
+  color:#FF4848;
+
+}
+.number{
+  margin-top: 80px;
+  text-align: left;
+
+}
+
+.link {
+  color:black;
+    
+}
