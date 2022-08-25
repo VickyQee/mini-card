@@ -19,6 +19,9 @@
   width: 471px;
   height: 31px;
   align-content: left;
+  border: 1px solid red;
+  margin-top: 100px;
+  
   
 }
 .deposit {
@@ -38,7 +41,28 @@
 .number{
   margin-top: 80px;
   text-align: left;
+}
+.cashUsage{
+  text-align: center;
 
 }
+.dial{
+  text-align: center;
+}
+.pin{
+  text-align: center;
+}
+.naira{
+  text-align: center;
+}
+.batch{
+  display:flex
+}
+.imgContainer {
+ margin-left: 350px;
+ justify-content: end;
+ align-content: center;
+ 
 
-
+ 
+}
